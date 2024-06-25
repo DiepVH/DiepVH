@@ -4,7 +4,7 @@ Hello World.
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning PHP, WordPress
 - 💞️ I’m looking to collaborate on WordPress Plugins and Themes Dev
-- 📫 How to reach me: You can touch me in github.
+- 📫 You can touch me in github.
 
 <!---
 DiepVH/DiepVH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
